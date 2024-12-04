@@ -1,2 +1,2 @@
-# Week_8_46827070
-Wee 8 SQL
+# SQL
+interact with the SQL database using R through RStudio
